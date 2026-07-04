@@ -121,7 +121,6 @@ That backend depth is what makes the mobile experience credible.
 
 ## Demo And APK
 
-- Demo video: [2-minute app demo](https://drive.google.com/file/d/1flDrBc4azwtw6EeM76nGWD4jQp2GkK5x/view?usp=drivesdk)
 - Android APK: [Drive link](https://drive.google.com/file/d/1gquj4NYOrq74wG2DNj3Sqbq6spR4T5Ta/view?usp=drive_link)
 - Full technical explainer: [SAHAYAK_COMPLETE_EXPLAINER.md](./docs/SAHAYAK_COMPLETE_EXPLAINER.md)
 
