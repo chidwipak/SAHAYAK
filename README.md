@@ -188,8 +188,8 @@ We documented the full story behind the system design, graph construction, evalu
 
 It covers:
 
-- the 12 data layers behind the graph
-- the full medication-to-report pipeline
-- how multi-hop interaction reasoning works
-- where LLMs are used and where they are deliberately constrained
-- what the evaluation results do and do not prove
+- the 12 data layers behind the graph.
+- the full medication-to-report pipeline.
+- how multi-hop interaction reasoning works.
+- where LLMs are used and where they are deliberately constrained.
+- what the evaluation results do and do not prove.
